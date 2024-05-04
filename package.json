@@ -1,0 +1,14 @@
+{
+  "name": "laval-up-meme",
+  "version": "1.0.0",
+  "description": "laval up meme, just for entertainment purpose.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
